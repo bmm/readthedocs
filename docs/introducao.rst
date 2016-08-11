@@ -107,65 +107,26 @@ resultados de pesquisas. Assim, o nível de descrição ideal seria o
 correspondente ao documento simples, o qual na prática nem sempre é
 usado devido ao grau de esforço que isso implica.
 
-.. raw:: html
-
-   </div>
-
-.. rubric:: Pontos de acesso controlados
-   :name: pontos_de_acesso_controlados
-   :class: sectionedit5
-
-.. raw:: html
-
-   <div class="level2">
+Pontos de acesso controlados
+----------------------------
 
 O GISA possibilita a criação de uma linguagem controlada para
 estabelecer, de uma forma normalizada, a identidade e a designação
 autorizada de pontos de acesso às unidades de descrição documentais,
 considerando os seguintes tipos de notícias de autoridade:
 
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   `Entidade Produtora </docs/entidade_produtora>`__ - quando referida
+   - `Entidade Produtora </docs/entidade_produtora>`__ - quando referida
    na unidade de descrição indica que a produziu. As unidades orgânicas
    relacionadas entre si constituem a(s) estrutura(s) orgânica(s).
 
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   `Conteúdo </docs/conteudo>`__ - podem ser to tipo ``Ideográfico``,
+   - `Conteúdo </docs/conteudo>`__ - podem ser to tipo ``Ideográfico``,
    ``Onomástico`` ou ``Nome geográfico ou topónimo citadino`` e quando
    indexados a uma unidade de descrição indicam assuntos referidos no
    seu conteúdo. Estes termos relacionados entre si constituem um
    tesauro.
 
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   `Tipologias Informacionais </docs/tipologia_informacional>`__ -
+   - `Tipologias Informacionais </docs/tipologia_informacional>`__ -
    indicam a tipologia da unidade de descrição.
-
-   .. raw:: html
-
-      </div>
 
 Com base nestes registos de autoridade controlados, e nas relações entre
 eles, é possível criarem-se as estruturas orgânicas ao longo do tempo de
@@ -211,17 +172,8 @@ Valente*, do tipo ``Onomástico``, pode estar hierarquicamente
 relacionado com dois registos de autoridade mais genéricos, *Aluno* e
 *Pessoal docente*, ambos ``Ideográficos``.
 
-.. raw:: html
-
-   </div>
-
-.. rubric:: Avaliação de documentos
-   :name: avaliacao_de_documentos
-   :class: sectionedit6
-
-.. raw:: html
-
-   <div class="level2">
+Avaliação de documentos
+-----------------------
 
 Uma das funcionalidades do GISA é a avaliação e triagem dos documentos.
 Esta operação arquivística tem especial interesse se o universo de
@@ -233,17 +185,8 @@ eliminar com segurança toda a informação irrelevante ou redundante. É
 possível a criação de autos de eliminação, como resultado da operação de
 avaliação.
 
-.. raw:: html
-
-   </div>
-
-.. rubric:: Disseminação da informação
-   :name: disseminacao_da_informacao
-   :class: sectionedit7
-
-.. raw:: html
-
-   <div class="level2">
+Disseminação da informação
+--------------------------
 
 O GISA Internet permite disseminar a informação registada no GISA,
 definida como pública. Esta informação está pesquisável na web e ao
@@ -252,92 +195,15 @@ possibilitando uma navegação entre informação relacionada.
 
 Exemplos:
 
--  
+   - `Arquivo Municipal do Porto <http://gisaweb.cm-porto.pt/>`__
+   - `Arquivo Sophia de Mello Breyner <http://arquivo.cm-gaia.pt/>`__
+   - `Arquivo Municipal Alfredo Pimenta <http://www.amap.com.pt/gisa/>`__
+   - `Arquivo da Faculdade de Letras da Universidade do Porto <http://catac.letras.up.pt/>`__
+   - `Arquivo da Faculdade de Engenharia da Universidade do Porto <http://gisaweb.fe.up.pt/>`__
+   - `Arquivo da Reitoria da Universidade do Porto <http://gisa.up.pt/pesquisa/>`__
 
-   .. raw:: html
-
-      <div class="li">
-
-   `Arquivo Municipal do Porto <http://gisaweb.cm-porto.pt/>`__
-
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   `Arquivo Sophia de Mello Breyner <http://arquivo.cm-gaia.pt/>`__
-
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   `Arquivo Municipal Alfredo Pimenta <http://www.amap.com.pt/gisa/>`__
-
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   `Arquivo da Faculdade de Letras da Universidade do
-   Porto <http://catac.letras.up.pt/>`__
-
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   `Arquivo da Faculdade de Engenharia da Universidade do
-   Porto <http://gisaweb.fe.up.pt/>`__
-
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   `Arquivo da Reitoria da Universidade do
-   Porto <http://gisa.up.pt/pesquisa/>`__
-
-   .. raw:: html
-
-      </div>
-
-.. raw:: html
-
-   </div>
-
-.. rubric:: Pesquisa de informação
-   :name: pesquisa_de_informacao
-   :class: sectionedit8
-
-.. raw:: html
-
-   <div class="level2">
+Pesquisa de informação
+----------------------
 
 A pesquisa num Arquivo é essencialmente originada pela necessidade de
 aceder a determinada *informação*. A resposta pode ser dada pelo GISA
@@ -345,32 +211,11 @@ aceder a determinada *informação*. A resposta pode ser dada pelo GISA
 aplicação </docs/pesquisa_ui>`__ ) se esta informação estiver
 representada no sistema, através das unidades informacionais:
 
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   se a informação pretendida se encontra num documento em Depósito,
+   - se a informação pretendida se encontra num documento em Depósito,
    deverá ser fornecida a cota de forma a permitir uma localização
    rápida.
-
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   se esse documento já estiver em formato digital, deveria ser possível
+   - se esse documento já estiver em formato digital, deveria ser possível
    visualizá-lo, desde que não haja restrições ao seu acesso.
-
-   .. raw:: html
-
-      </div>
 
 Pode também existir a necessidade de, para efeitos de serviço interno do
 Arquivo, ter como objeto de pesquisa, as unidades físicas registadas no
@@ -390,17 +235,8 @@ usada para recuperar informação em qualquer campo de descrição. Numa
 modalidade de *Pesquisa Avançada*, é possível combinar vários critérios
 de pesquisa.
 
-.. raw:: html
-
-   </div>
-
-.. rubric:: Relatórios
-   :name: relatorios
-   :class: sectionedit9
-
-.. raw:: html
-
-   <div class="level2">
+Relatórios
+----------
 
 O GISA possibilita a criação de vários tipos de listagens, resumidas ou
 detalhadas, em formato PDF ou RTF, nomeadamente relatórios de notícias
@@ -408,59 +244,25 @@ de autoridade, relatórios de unidades físicas, catálogos, inventários,
 autos de eliminação e também relatórios configuráveis sobre os
 resultados das pesquisas.
 
-.. raw:: html
-
-   </div>
-
-.. rubric:: Estatísticas
-   :name: estatisticas
-   :class: sectionedit10
-
-.. raw:: html
-
-   <div class="level2">
+Estatísticas
+------------
 
 Os dados estatísticos sobre os registos de descrições são apresentados,
 em termos totais ou por utilizador num período de tempo pretendido,
 permitindo um controlo de desempenho das operações arquivísticas que
 usam o GISA como ferramenta.
 
-.. raw:: html
-
-   </div>
-
-.. rubric:: Interoperabilidade
-   :name: interoperabilidade
-   :class: sectionedit11
-
-.. raw:: html
-
-   <div class="level2">
+Interoperabilidade
+------------------
 
 Existem funcionalidades de interoperabilidade associadas ao GISA via:
 
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   `EAD <http://www.google.pt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCQQFjAA&url=http%3A%2F%2Fwww.loc.gov%2Fead%2F&ei=SQ50UPDANqic0QWioICQDQ&usg=AFQjCNGq95fPSoyRK1xZLSRDO0RaibFEXQ>`__
+   - `EAD <http://www.google.pt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCQQFjAA&url=http%3A%2F%2Fwww.loc.gov%2Fead%2F&ei=SQ50UPDANqic0QWioICQDQ&usg=AFQjCNGq95fPSoyRK1xZLSRDO0RaibFEXQ>`__
    (*Encoded Archival Description*) - com a obtenção para ficheiro das
    descrições arquivísticas feitas no GISA, neste formato internacional
    normalizado.
 
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   `OAI-PMH <http://www.google.pt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAA&url=http%3A%2F%2Fwww.openarchives.org%2Fpmh%2F&ei=dw50UN-aOOmx0QWqo4DoBg&usg=AFQjCNFEDSrxCKYkyEHMCOgD5rmN2IInNQ>`__
+   - `OAI-PMH <http://www.google.pt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAA&url=http%3A%2F%2Fwww.openarchives.org%2Fpmh%2F&ei=dw50UN-aOOmx0QWqo4DoBg&usg=AFQjCNFEDSrxCKYkyEHMCOgD5rmN2IInNQ>`__
    (*Open Archives Initiative Protocol for Metadata Harvesting*),
    disponibilizando as descrições de documentos, existentes no GISA e
    assinaladas como públicas, de forma a poderem ser utilizadas por
@@ -469,23 +271,9 @@ Existem funcionalidades de interoperabilidade associadas ao GISA via:
    Arquivos <http://portal.arquivos.pt/>`__ e a
    `EUROPEANA <http://www.europeana.eu/portal/>`__.
 
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   Importação para o GISA de dados existentes no ficheiro Excel, desde
+   - Importação para o GISA de dados existentes no ficheiro Excel, desde
    que obedeçam a um formato específico. == Gestão de utilizadores e
    permissões ==
-
-   .. raw:: html
-
-      </div>
 
 Como em qualquer sistema multi-utilizador, cada utilizador GISA é
 identificado individualmente através do nome e palavra-chave. O seu
@@ -500,81 +288,30 @@ um *utilizador ou grupo de utilizadores*, podendo ou não efetuar
 
 Os valores possíveis para as permissões são:
 
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   ``Sim`` - para dar acesso, ou
-
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   ``Não`` - para limitar o acesso.
-
-   .. raw:: html
-
-      </div>
+   - ``Sim`` - para dar acesso, ou
+   - ``Não`` - para limitar o acesso.
 
 Existem três diferentes recursos da aplicação, cujas operações deverão
 estar ou não acessíveis, dependendo do utilizador:
 
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   ``Módulos`` - é onde se define a possibilidade ou não de criar,
+   - ``Módulos`` - é onde se define a possibilidade ou não de criar,
    alterar, remover ou visualizar registos em determinada área da
    aplicação. Por exemplo, definir só permissões de leitura na área de
    Controlo de Autoridade, ou permissões totais na Descrição de Unidades
    físicas, etc..
 
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   ``Níveis`` - é possível controlar o tipo de acesso (criação,
+   - ``Níveis`` - é possível controlar o tipo de acesso (criação,
    alteração, remoção e visualização) a cada nível de descrição da
    estrutura arquivística existente. Por exemplo, um utilizador só poder
    visualizar e expandir determinado nível de descrição, sem poder
    editar, apagar ou criar nível subjacente.
 
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   ``Objetos digitais`` - é possível controlar o tipo de acesso (escrita
+   - ``Objetos digitais`` - é possível controlar o tipo de acesso (escrita
    e visualização) a cada objeto digital de forma independente do acesso
    à unidade de descrição correspondente. Assim, qualquer utilizador com
    acesso a uma descrição de um documento, pode não ter acesso ao
    documento digital ou então ter acesso, total (a todos os objetos
    digitais) ou parcial (a parte dos objetos digitais).
-
-   .. raw:: html
-
-      </div>
 
 Em ambiente monoposto o GISA admite um único utilizador com permissões
 totais.
@@ -592,33 +329,15 @@ ele criado, são excecionalmente **Sim** explícitos, uma vez que ele deve
 ser o proprietário do nível e só perder essa prevalência de forma
 explícita por algum utilizador com permissão para tal.
 
-.. raw:: html
-
-   </div>
-
-.. rubric:: Gestão de Requisições/Devoluções
-   :name: gestao_de_requisicoesdevolucoes
-   :class: sectionedit12
-
-.. raw:: html
-
-   <div class="level2">
+Gestão de Requisições/Devoluções
+--------------------------------
 
 Este módulo permite controlar as saídas de documentos do Arquivo,
 registando as requisições e as devoluções de documentos existentes no
 GISA.
 
-.. raw:: html
-
-   </div>
-
-.. rubric:: Gestão de Depósitos
-   :name: gestao_de_depositos
-   :class: sectionedit13
-
-.. raw:: html
-
-   <div class="level2">
+Gestão de Depósitos
+-------------------
 
 Este módulo fornece a taxa de ocupação de um depósito com a gestão das
 existências nesse depósito, controlando as entradas das unidades físicas
@@ -630,17 +349,8 @@ Quando os registos de unidades físicas no GISA não têm dados nas
 dimensões, usa-se para dar uma estimativa de ocupação em prateleira, a
 média das larguras dos registos com dimensões.
 
-.. raw:: html
-
-   </div>
-
-.. rubric:: Repositório Digital
-   :name: repositorio_digital
-   :class: sectionedit14
-
-.. raw:: html
-
-   <div class="level2">
+Repositório Digital
+-------------------
 
 Com a atual tendência das organizações para a desmaterialização, através
 da digitalização em massa de documentos em suporte papel e a produção de
@@ -668,41 +378,21 @@ longo prazo. Este módulo assenta no repositório digital *open source*
 responsabilidade o armazenamento, manutenção e disponibilização dos
 objetos digitais, fornecendo:
 
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   apoio à construção de *objetos digitais* para submissão, de forma
+   - apoio à construção de *objetos digitais* para submissão, de forma
    adequada, ao Repositório Digital. Cada objeto digital inclui
    referências a ficheiros matriz de conteúdo digital ou a outros
    objetos digitais e também metadados descritivos e estruturais.
-
-   .. raw:: html
-
-      </div>
 
 \* *integração com o GISA*, permitindo a associação de cada objeto
 digital a uma unidade de descrição documental GISA, de forma a usar a
 meta-informação descritiva e estrutural (título, tipologia informacional
 e termos de indexação).
 
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   *estruturação dos objetos digitais*, pois quando uma unidade de
+   - *estruturação dos objetos digitais*, pois quando uma unidade de
    descrição tem vários *objetos digitais simples*, estes podem estar
    estruturados de forma a constituir um único *objeto digital
    composto*. Os objetos digitais compostos referenciam os objetos
    digitais simples e estes por sua vez referenciam as imagens.
-
-   .. raw:: html
-
-      </div>
 
 \* visualização dos documentos em formato PDF e com *qualidade
 ajustável*. É apresentado um PDF com as imagens que constituem cada
@@ -710,23 +400,13 @@ objeto digital, sendo possível escolher entre quatro resoluções
 (``Mínima``, ``Baixa``, ``Média``, ``Alta``). Por omissão, está
 selecionada a resolução ``Baixa``.
 
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   *visualização flexível* do documento em um ou mais PDFs, conforme a
+   - *visualização flexível* do documento em um ou mais PDFs, conforme a
    conveniência. Para um documento com vários objetos digitais simples,
    sem constituirem objeto digital composto, a sua visualização é feita
    através de vários PDFs . Quando os objetos digitais simples
    constituem um objeto digital composto, a visualização do documento é
    feita através de um único PDF, cujos marcadores são os títulos destes
    objetos digitais simples, referenciando a primeira imagem de cada um.
-
-   .. raw:: html
-
-      </div>
 
 \* *permissões* de leitura e escrita sobre cada objeto digital simples.
 As permissões de um objeto digital composto, são a conjunção das
@@ -735,29 +415,11 @@ objeto digital composto só pode apresentar imagens relativas aos seus
 objetos digitais simples com permissão de leitura, ignorando todos os
 que não tenham permissão.
 
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   *versionamento* de cada objeto digital, mostrando a evolução deste,
+   - *versionamento* de cada objeto digital, mostrando a evolução deste,
    desde a sua criação. Ficam registadas todas alterações que foram
    efetuadas, quando e por quem.
-
-   .. raw:: html
-
-      </div>
 
 Os ficheiros de imagens a guardar no Repositório Digital, deverão
 residir num disco adequado e convenientemente dimensionado e serem
 disponibilizados ao utilizador os URLs de cada um, para que estes possam
 ser referenciados no processo de criação de objetos digitais.
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
