@@ -15,7 +15,7 @@ D: ``Barra de estado``
 E: ``Separadores vertical e horizontal``
 
 |Ambiente de trabalho geral|
-.. image:: ambientetrabalhogeral2.jpg
+.. image:: _static/images/ambientetrabalhogeral2.jpg
 
 Seletor de módulos
 ------------------
