@@ -10,14 +10,19 @@ Conteúdo:
 
 .. toctree::
    :maxdepth: 2
+   :glob:
+
+   *
 
 Manual de utilizador
 --------------------
 
-.. Índices e tabelas
-.. ==================
 
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`
+
+Índices e tabelas
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
