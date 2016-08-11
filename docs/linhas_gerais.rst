@@ -1,4 +1,4 @@
-:: Linhas gerais de uso
+Linhas gerais de uso
 =======================
 
 A grande maioria dos Arquivos, por limitação de recursos, têm que
