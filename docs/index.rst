@@ -18,22 +18,11 @@ Manual de utilizador
    introducao
    linhas_gerais 
 
-.. Introdução
-.. ++++++++++
-
-.. .. toctree::
+.. toctree::
    :maxdepth: 2
-
-.. Conteúdo:
-
-.. .. toctree::
-    :maxdepth: 2
-   :glob:
-
-..   *
-
-
-
+   :caption: GISA em posto de trabalho
+   
+   ambiente_trabalho
 
 Índices e tabelas
 ==================
