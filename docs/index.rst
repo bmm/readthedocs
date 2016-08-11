@@ -3,20 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Bem-vindo à documentação do GISA!
-=================================
+Documentação
+============
 
 Conteúdo:
 
 .. toctree::
    :maxdepth: 2
 
+Manual de utilizador
+====================
 
+.. Índices e tabelas
+.. ==================
 
-Índices e tabelas
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
 
