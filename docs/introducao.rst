@@ -1,205 +1,5 @@
-.. raw:: html
-
-   <div class="dokuwiki export">
-
-.. raw:: html
-
-   <div id="dw__toc">
-
-.. rubric:: Tabela de Conteúdos
-   :name: tabela-de-conteúdos
-   :class: toggle
-
-.. raw:: html
-
-   <div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   `Conceitos gerais <#conceitos_gerais>`__
-
-   .. raw:: html
-
-      </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Unidades informacionais, unidades físicas e objetos
-      digitais <#unidades_informacionais_unidades_fisicas_e_objetos_digitais>`__
-
-      .. raw:: html
-
-         </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Plano de classificação <#plano_de_classificacao>`__
-
-      .. raw:: html
-
-         </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Descrição arquivística
-      multinível <#descricao_arquivistica_multinivel>`__
-
-      .. raw:: html
-
-         </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Pontos de acesso controlados <#pontos_de_acesso_controlados>`__
-
-      .. raw:: html
-
-         </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Avaliação de documentos <#avaliacao_de_documentos>`__
-
-      .. raw:: html
-
-         </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Disseminação da informação <#disseminacao_da_informacao>`__
-
-      .. raw:: html
-
-         </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Pesquisa de informação <#pesquisa_de_informacao>`__
-
-      .. raw:: html
-
-         </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Relatórios <#relatorios>`__
-
-      .. raw:: html
-
-         </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Estatísticas <#estatisticas>`__
-
-      .. raw:: html
-
-         </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Interoperabilidade <#interoperabilidade>`__
-
-      .. raw:: html
-
-         </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Gestão de
-      Requisições/Devoluções <#gestao_de_requisicoesdevolucoes>`__
-
-      .. raw:: html
-
-         </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Gestão de Depósitos <#gestao_de_depositos>`__
-
-      .. raw:: html
-
-         </div>
-
-   -  
-
-      .. raw:: html
-
-         <div class="li">
-
-      `Repositório Digital <#repositorio_digital>`__
-
-      .. raw:: html
-
-         </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. rubric:: Conceitos gerais
-   :name: conceitos_gerais
-   :class: sectionedit1
-
-.. raw:: html
-
-   <div class="level1">
+Conceitos gerais
+================
 
 A grande missão de um Arquivo é facilitar o acesso à informação que está
 sob a sua guarda, tendo que para isso, organizar, descrever, avaliar e
@@ -213,17 +13,8 @@ ajuda o arquivista nas suas atividades.
 Neste universo, antes de utilizar o GISA, é importante apresentar
 algumas definições e o tipo de abordagens escolhidas.
 
-.. raw:: html
-
-   </div>
-
-.. rubric:: Unidades informacionais, unidades físicas e objetos digitais
-   :name: unidades_informacionais_unidades_fisicas_e_objetos_digitais
-   :class: sectionedit2
-
-.. raw:: html
-
-   <div class="level2">
+Unidades informacionais, unidades físicas e objetos digitais
+------------------------------------------------------------
 
 Um *documento* no GISA é qualquer tipo de suporte, papel ou digital, que
 transporte em si conteúdo que constitua elemento de prova ou de
@@ -250,17 +41,8 @@ que possam existir, conseguindo, por exemplo, representar um processo de
 obra em 3 pastas, um livro com N documentos, uma série de livros
 digitalizados…
 
-.. raw:: html
-
-   </div>
-
-.. rubric:: Plano de classificação
-   :name: plano_de_classificacao
-   :class: sectionedit3
-
-.. raw:: html
-
-   <div class="level2">
+Plano de classificação
+----------------------
 
 O *plano de Classificação* é um instrumento de gestão que organiza de
 forma hierarárquica, num plano intelectual, os tipos documentais
@@ -281,28 +63,12 @@ classificação do GISA segue uma *estrutura arquivística* semanticamente
 mais rica que uma simples estrutura hierárquica em árvore, constituída
 por:
 
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   um *nível de topo* do tipo *Entidade detentora*, ou seja, a entidade
+   - um *nível de topo* do tipo *Entidade detentora*, ou seja, a entidade
    que faz a custódia dos documentos que se pretendem gerir.
    Hierarquicamente abaixo, também podem existir níveis do tipo *Grupo
    de arquivos*.
 
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   uma *estrutura orgânico-funcional*, em que cada unidade
+   - uma *estrutura orgânico-funcional*, em que cada unidade
    orgânico-funcional pode estar relacionada com outras, através de
    relações hierárquicas, associativas, familiares ou temporais
    previstas na norma internacional
@@ -316,37 +82,14 @@ por:
    tipo *Arquivo*, deverá estar relacionada com algum grupo de arquivo
    se existir, senão com a entidade detentora à qual pertence.
 
-   .. raw:: html
-
-      </div>
-
--  
-
-   .. raw:: html
-
-      <div class="li">
-
-   uma *estrutura documental*, esta sim, uma estrutura hieráquica em
+   - uma *estrutura documental*, esta sim, uma estrutura hieráquica em
    árvore, cujo topo será subjacente a uma ou mais unidades orgânicas
    produtoras da respetiva informação. O GISA suporta séries documentais
    contínuas, que, embora produzidas por diferentes produtores ao longo
    do tempo, permanecem.
 
-   .. raw:: html
-
-      </div>
-
-.. raw:: html
-
-   </div>
-
-.. rubric:: Descrição arquivística multinível
-   :name: descricao_arquivistica_multinivel
-   :class: sectionedit4
-
-.. raw:: html
-
-   <div class="level2">
+Descrição arquivística multinível
+---------------------------------
 
 A descrição arquivística no GISA está de acordo com a
 `ISAD(G) <http://www.ica.org/10207/standards/isadg-general-international-standard-archival-description-second-edition.html>`__
