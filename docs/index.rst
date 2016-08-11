@@ -6,16 +6,31 @@
 Documentação
 ============
 
-Conteúdo:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   *
+Nesta área poderá consultar toda a documentação do GISA, a qual se encontra em constante evolução e melhoria. O manual de utilizador disponibilizado em baixo diz respeito à versão 2.11 do GISA.
 
 Manual de utilizador
 --------------------
+
+Introdução
+++++++++++
+
+* :ref:`conceitos-gerais`
+
+.. _user-docs:
+
+.. toctree::
+   :maxdepth: 2
+
+  acesso   
+
+.. Conteúdo:
+
+.. .. toctree::
+    :maxdepth: 2
+   :glob:
+
+..   *
+
 
 
 
