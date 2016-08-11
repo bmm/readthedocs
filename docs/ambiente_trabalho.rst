@@ -14,7 +14,8 @@ D: ``Barra de estado``
 
 E: ``Separadores vertical e horizontal``
 
-|_static/images/ambientetrabalhogeral2.jpg|
+.. figure:: _static/images/ambientetrabalhogeral2.jpg
+   :align: center
 
 Seletor de módulos
 ------------------
