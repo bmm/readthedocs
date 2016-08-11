@@ -12,7 +12,7 @@ Conteúdo:
    :maxdepth: 2
 
 Manual de utilizador
-====================
+--------------------
 
 .. Índices e tabelas
 .. ==================
