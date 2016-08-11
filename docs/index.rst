@@ -11,16 +11,20 @@ Nesta área poderá consultar toda a documentação do GISA, a qual se encontra 
 Manual de utilizador
 --------------------
 
+Introdução
+++++++++++
+
 .. toctree::
    :maxdepth: 2
-   :caption: Introdução
    
    introducao
    linhas_gerais 
 
+GISA em posto de trabalho
++++++++++++++++++++++++++
+
 .. toctree::
    :maxdepth: 2
-   :caption: GISA em posto de trabalho
    
    ambiente_trabalho
 
