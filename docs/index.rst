@@ -27,9 +27,6 @@ GISA em posto de trabalho
    :maxdepth: 2
    
    ambiente_trabalho
-
-Controlo de autoridade
-
    entidade_produtora
    conteudo
    tipologia_informacional
