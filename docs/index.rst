@@ -48,12 +48,3 @@ GISA em posto de trabalho
    imagens_ilustracao
    destaques
    pesquisa_web
-
-
-Índices e tabelas
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
