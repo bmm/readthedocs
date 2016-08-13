@@ -25,8 +25,7 @@ Em termos de GISA, existem registos de descrição arquivística de
 documentos ou de grupos de documentos, os quais são denominados por
 *unidades informacionais*. Como cada unidade informacional pode
 representar um ou mais documentos, torna-se possível uma `descrição
-arquivística
-multinível </docs/introducao#descricao_arquivistica_multinivel>`__.
+arquivística multinível <>`__.
 
 O suporte de documentos, dependendo do tipo, é representado por unidades
 físicas ou objetos digitais. As *unidades físicas* possuem
@@ -63,12 +62,11 @@ classificação do GISA segue uma *estrutura arquivística* semanticamente
 mais rica que uma simples estrutura hierárquica em árvore, constituída
 por:
 
-   - um *nível de topo* do tipo *Entidade detentora*, ou seja, a entidade
+-  um *nível de topo* do tipo *Entidade detentora*, ou seja, a entidade
    que faz a custódia dos documentos que se pretendem gerir.
    Hierarquicamente abaixo, também podem existir níveis do tipo *Grupo
    de arquivos*.
-
-   - uma *estrutura orgânico-funcional*, em que cada unidade
+-  uma *estrutura orgânico-funcional*, em que cada unidade
    orgânico-funcional pode estar relacionada com outras, através de
    relações hierárquicas, associativas, familiares ou temporais
    previstas na norma internacional
@@ -81,8 +79,7 @@ por:
    estrutura orgânica ao longo do tempo. A unidade orgânica de topo, do
    tipo *Arquivo*, deverá estar relacionada com algum grupo de arquivo
    se existir, senão com a entidade detentora à qual pertence.
-
-   - uma *estrutura documental*, esta sim, uma estrutura hieráquica em
+-  uma *estrutura documental*, esta sim, uma estrutura hieráquica em
    árvore, cujo topo será subjacente a uma ou mais unidades orgânicas
    produtoras da respetiva informação. O GISA suporta séries documentais
    contínuas, que, embora produzidas por diferentes produtores ao longo
@@ -115,18 +112,15 @@ estabelecer, de uma forma normalizada, a identidade e a designação
 autorizada de pontos de acesso às unidades de descrição documentais,
 considerando os seguintes tipos de notícias de autoridade:
 
-   - `Entidade Produtora </docs/entidade_produtora>`__ - quando referida
-   na unidade de descrição indica que a produziu. As unidades orgânicas
-   relacionadas entre si constituem a(s) estrutura(s) orgânica(s).
-
-   - `Conteúdo </docs/conteudo>`__ - podem ser to tipo ``Ideográfico``,
-   ``Onomástico`` ou ``Nome geográfico ou topónimo citadino`` e quando
-   indexados a uma unidade de descrição indicam assuntos referidos no
-   seu conteúdo. Estes termos relacionados entre si constituem um
-   tesauro.
-
-   - `Tipologias Informacionais </docs/tipologia_informacional>`__ -
-   indicam a tipologia da unidade de descrição.
+-  `Entidade Produtora <>`__ - quando referida na unidade de descrição
+   indica que a produziu. As unidades orgânicas relacionadas entre si
+   constituem a(s) estrutura(s) orgânica(s).
+-  `Conteúdo <>`__ - podem ser to tipo ``Ideográfico``, ``Onomástico``
+   ou ``Nome geográfico ou topónimo citadino`` e quando indexados a uma
+   unidade de descrição indicam assuntos referidos no seu conteúdo.
+   Estes termos relacionados entre si constituem um tesauro.
+-  `Tipologias Informacionais <>`__ - indicam a tipologia da unidade de
+   descrição.
 
 Com base nestes registos de autoridade controlados, e nas relações entre
 eles, é possível criarem-se as estruturas orgânicas ao longo do tempo de
@@ -195,12 +189,15 @@ possibilitando uma navegação entre informação relacionada.
 
 Exemplos:
 
-   - `Arquivo Municipal do Porto <http://gisaweb.cm-porto.pt/>`__
-   - `Arquivo Sophia de Mello Breyner <http://arquivo.cm-gaia.pt/>`__
-   - `Arquivo Municipal Alfredo Pimenta <http://www.amap.com.pt/gisa/>`__
-   - `Arquivo da Faculdade de Letras da Universidade do Porto <http://catac.letras.up.pt/>`__
-   - `Arquivo da Faculdade de Engenharia da Universidade do Porto <http://gisaweb.fe.up.pt/>`__
-   - `Arquivo da Reitoria da Universidade do Porto <http://gisa.up.pt/pesquisa/>`__
+-  `Arquivo Municipal do Porto <http://gisaweb.cm-porto.pt/>`__
+-  `Arquivo Sophia de Mello Breyner <http://arquivo.cm-gaia.pt/>`__
+-  `Arquivo Municipal Alfredo Pimenta <http://www.amap.com.pt/gisa/>`__
+-  `Arquivo da Faculdade de Letras da Universidade do
+   Porto <http://catac.letras.up.pt/>`__
+-  `Arquivo da Faculdade de Engenharia da Universidade do
+   Porto <http://gisaweb.fe.up.pt/>`__
+-  `Arquivo da Reitoria da Universidade do
+   Porto <http://gisa.up.pt/pesquisa/>`__
 
 Pesquisa de informação
 ----------------------
@@ -208,20 +205,20 @@ Pesquisa de informação
 A pesquisa num Arquivo é essencialmente originada pela necessidade de
 aceder a determinada *informação*. A resposta pode ser dada pelo GISA
 (ver em detalhe a pagina `Pesquisa de Unidades Informacionais via
-aplicação </docs/pesquisa_ui>`__ ) se esta informação estiver
-representada no sistema, através das unidades informacionais:
+aplicação <>`__ ) se esta informação estiver representada no sistema,
+através das unidades informacionais:
 
-   - se a informação pretendida se encontra num documento em Depósito,
+-  se a informação pretendida se encontra num documento em Depósito,
    deverá ser fornecida a cota de forma a permitir uma localização
    rápida.
-   - se esse documento já estiver em formato digital, deveria ser possível
+-  se esse documento já estiver em formato digital, deveria ser possível
    visualizá-lo, desde que não haja restrições ao seu acesso.
 
 Pode também existir a necessidade de, para efeitos de serviço interno do
 Arquivo, ter como objeto de pesquisa, as unidades físicas registadas no
 GISA, sem ter preocupações de acesso a informação. O GISA também
 disponibiliza este tipo de pesquisa, detalhada na página `Pesquisa de
-Unidades físicas via aplicação </docs/pesquisa_uf>`__.
+Unidades físicas via aplicação <>`__.
 
 O GISA permite recuperar informação tanto via posto de trabalho com
 permissões para tal, como via Web por qualquer pessoa. Enquanto que o
@@ -257,21 +254,19 @@ Interoperabilidade
 
 Existem funcionalidades de interoperabilidade associadas ao GISA via:
 
-   - `EAD <http://www.google.pt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCQQFjAA&url=http%3A%2F%2Fwww.loc.gov%2Fead%2F&ei=SQ50UPDANqic0QWioICQDQ&usg=AFQjCNGq95fPSoyRK1xZLSRDO0RaibFEXQ>`__
-   (*Encoded Archival Description*) - com a obtenção para ficheiro das
+-  `EAD <http://www.google.pt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCQQFjAA&url=http%3A%2F%2Fwww.loc.gov%2Fead%2F&ei=SQ50UPDANqic0QWioICQDQ&usg=AFQjCNGq95fPSoyRK1xZLSRDO0RaibFEXQ>`__
+   ( *Encoded Archival Description*) - com a obtenção para ficheiro das
    descrições arquivísticas feitas no GISA, neste formato internacional
    normalizado.
-
-   - `OAI-PMH <http://www.google.pt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAA&url=http%3A%2F%2Fwww.openarchives.org%2Fpmh%2F&ei=dw50UN-aOOmx0QWqo4DoBg&usg=AFQjCNFEDSrxCKYkyEHMCOgD5rmN2IInNQ>`__
-   (*Open Archives Initiative Protocol for Metadata Harvesting*),
+-  `OAI-PMH <http://www.google.pt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAA&url=http%3A%2F%2Fwww.openarchives.org%2Fpmh%2F&ei=dw50UN-aOOmx0QWqo4DoBg&usg=AFQjCNFEDSrxCKYkyEHMCOgD5rmN2IInNQ>`__
+   ( *Open Archives Initiative Protocol for Metadata Harvesting*),
    disponibilizando as descrições de documentos, existentes no GISA e
    assinaladas como públicas, de forma a poderem ser utilizadas por
    servidores agregadores de informação que reconheçam este tipo de
    protocolo, nomeadamente o `Portal Português de
    Arquivos <http://portal.arquivos.pt/>`__ e a
    `EUROPEANA <http://www.europeana.eu/portal/>`__.
-
-   - Importação para o GISA de dados existentes no ficheiro Excel, desde
+-  Importação para o GISA de dados existentes no ficheiro Excel, desde
    que obedeçam a um formato específico. == Gestão de utilizadores e
    permissões ==
 
@@ -288,25 +283,23 @@ um *utilizador ou grupo de utilizadores*, podendo ou não efetuar
 
 Os valores possíveis para as permissões são:
 
-   - ``Sim`` - para dar acesso, ou
-   - ``Não`` - para limitar o acesso.
+-  ``Sim`` - para dar acesso, ou
+-  ``Não`` - para limitar o acesso.
 
 Existem três diferentes recursos da aplicação, cujas operações deverão
 estar ou não acessíveis, dependendo do utilizador:
 
-   - ``Módulos`` - é onde se define a possibilidade ou não de criar,
+-  ``Módulos`` - é onde se define a possibilidade ou não de criar,
    alterar, remover ou visualizar registos em determinada área da
    aplicação. Por exemplo, definir só permissões de leitura na área de
    Controlo de Autoridade, ou permissões totais na Descrição de Unidades
    físicas, etc..
-
-   - ``Níveis`` - é possível controlar o tipo de acesso (criação,
+-  ``Níveis`` - é possível controlar o tipo de acesso (criação,
    alteração, remoção e visualização) a cada nível de descrição da
    estrutura arquivística existente. Por exemplo, um utilizador só poder
    visualizar e expandir determinado nível de descrição, sem poder
    editar, apagar ou criar nível subjacente.
-
-   - ``Objetos digitais`` - é possível controlar o tipo de acesso (escrita
+-  ``Objetos digitais`` - é possível controlar o tipo de acesso (escrita
    e visualização) a cada objeto digital de forma independente do acesso
    à unidade de descrição correspondente. Assim, qualquer utilizador com
    acesso a uma descrição de um documento, pode não ter acesso ao
@@ -318,10 +311,9 @@ totais.
 
 Quando se cria um utilizador, um nível de descrição ou um objeto
 digital, o sistema atribui automaticamente `permissões por
-omissão </docs/permissoes_omissao>`__. São valores implícitos e
-representam-se em itálico. Estes valores podem ser alterados
-explicitamente pelo utilizador ou alterados implicitamente, sendo o
-resultado de `cálculo de permissões </docs/permissoes_calculo>`__. Esta
+omissão <>`__. São valores implícitos e representam-se em itálico. Estes
+valores podem ser alterados explicitamente pelo utilizador ou alterados
+implicitamente, sendo o resultado de `cálculo de permissões <>`__. Esta
 distinção de valores é importante nos cálculos de permissões, pois um
 valor explícito prevalece sobre um valor implícito. Os valores das
 permissões por omissão de um utilizador, sobre um nível ou objeto por
@@ -378,7 +370,7 @@ longo prazo. Este módulo assenta no repositório digital *open source*
 responsabilidade o armazenamento, manutenção e disponibilização dos
 objetos digitais, fornecendo:
 
-   - apoio à construção de *objetos digitais* para submissão, de forma
+-  apoio à construção de *objetos digitais* para submissão, de forma
    adequada, ao Repositório Digital. Cada objeto digital inclui
    referências a ficheiros matriz de conteúdo digital ou a outros
    objetos digitais e também metadados descritivos e estruturais.
@@ -388,7 +380,7 @@ digital a uma unidade de descrição documental GISA, de forma a usar a
 meta-informação descritiva e estrutural (título, tipologia informacional
 e termos de indexação).
 
-   - *estruturação dos objetos digitais*, pois quando uma unidade de
+-  *estruturação dos objetos digitais*, pois quando uma unidade de
    descrição tem vários *objetos digitais simples*, estes podem estar
    estruturados de forma a constituir um único *objeto digital
    composto*. Os objetos digitais compostos referenciam os objetos
@@ -400,7 +392,7 @@ objeto digital, sendo possível escolher entre quatro resoluções
 (``Mínima``, ``Baixa``, ``Média``, ``Alta``). Por omissão, está
 selecionada a resolução ``Baixa``.
 
-   - *visualização flexível* do documento em um ou mais PDFs, conforme a
+-  *visualização flexível* do documento em um ou mais PDFs, conforme a
    conveniência. Para um documento com vários objetos digitais simples,
    sem constituirem objeto digital composto, a sua visualização é feita
    através de vários PDFs . Quando os objetos digitais simples
@@ -415,7 +407,7 @@ objeto digital composto só pode apresentar imagens relativas aos seus
 objetos digitais simples com permissão de leitura, ignorando todos os
 que não tenham permissão.
 
-   - *versionamento* de cada objeto digital, mostrando a evolução deste,
+-  *versionamento* de cada objeto digital, mostrando a evolução deste,
    desde a sua criação. Ficam registadas todas alterações que foram
    efetuadas, quando e por quem.
 

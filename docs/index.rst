@@ -28,6 +28,31 @@ GISA em posto de trabalho
    
    ambiente_trabalho
 
+Controlo de autoridade
+
+   entidade_produtora
+   conteudo
+   tipologia_informacional
+   descricao_uf
+   gestao_depositos
+   pesquisa_uf
+   descricao_ui
+   requisicoes
+   devolucoes
+   pesquisa_ui
+   objetos_digitais
+   configuracao_global
+   grupos_utilizadores
+   utilizadores
+   permissoes_modulo
+   permissoes_plano
+   estatisticas
+   permissoes_od
+   imagens_ilustracao
+   destaques
+   pesquisa_web
+
+
 Índices e tabelas
 ==================
 
