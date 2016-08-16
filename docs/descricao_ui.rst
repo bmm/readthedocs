@@ -701,21 +701,10 @@ zonas e campos da descrição de unidades informacionais são:
    :maxdepth: 2
 
    identificacao
-
-.. toctree::
-   :maxdepth: 2
-
    contexto
-
-.. toctree::
-   :maxdepth: 2
-
    conteudo_estrutura
    imagens
-
-.. toctree::
-   :maxdepth: 2
-
+   condicoes_acesso_utilizacao
    documentacao_associada
    notas
    controlo_descricao
