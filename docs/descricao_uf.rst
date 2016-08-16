@@ -47,7 +47,7 @@ Cada unidade física deve ter associada uma ``Entidade detentora``, à
 qual pertence. Por omissão, fica associada a primeira da lista (ordenada
 alfabeticamente). Se a entidade detentora não existir, para se poder
 criar a unidade física, terá de ser previamente criada (ver detalhe em
-`Entidade detentora <>`__).
+`Entidade detentora <descricao_ui.html#entidade-detentora>`__).
 
 O ``Código`` de uma unidade física é gerado automaticamente e é único,
 sendo composto pelo código da entidade detentora e por um código
@@ -149,9 +149,9 @@ Descrição de Unidades Físicas
 físicas permitindo o registo das suas principais características. As
 zonas de preenchimento são as seguintes:
 
--  `Identificação <>`__
--  `Unidades de descrição <>`__
--  `Controlo de descrição <>`__
+-  `Identificação <descricao_uf.html#identificacao>`__
+-  `Unidades de descrição <descricao_uf.html#unidades-de-descricao>`__
+-  `Controlo de descrição <descricao_uf.html#controlo-de-descricao>`__
 
 Identificação
 ~~~~~~~~~~~~~

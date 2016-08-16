@@ -45,7 +45,7 @@ pesquisa pretendido e a seguir clicar no botão *Pesquisar*, para a lista
 de resultados ser apresentada. O critério de pesquisa é estabelecido,
 usando os painéis acima referidos com expressões de pesquisa válidas.
 Para um melhor conhecimento sobre a construção de expressões de
-pesquisa, consultar a página `Expressões de pesquisa <>`__.
+pesquisa, consultar a página `Expressões de pesquisa <pesquisa.html>`__.
 
 Pesquisa na Descrição
 ~~~~~~~~~~~~~~~~~~~~~
@@ -53,7 +53,7 @@ Pesquisa na Descrição
 É possível pesquisar por alguns campos (os mais usuais) da unidade de
 descrição selecionando o painel ``Descrição``. Para um maior detalhe em
 como construir expressões de pesquisa bem formadas, consultar a página
-`Expressões de pesquisa <>`__.
+`Expressões de pesquisa <pesquisa.html>`__.
 
 |image2|
 
@@ -105,12 +105,13 @@ inferior do intervalo, ou então, *antes de* uma determinada data,
 definindo somente o limite superior.
 
 Nas unidades de descrição do GISA, os campos de datas podem ser
-preenchidos como se indica nas `Datas de produção <>`__. No entanto, a
-data como critério de pesquisa, terá de ser completa, obrigando ao
-preenchimento do ano, do mês e do dia. Quando se pesquisa por datas,
-descrições com datas indeterminadas ou não preenchidas, não são
-recuperadas, mas descrições com datas incompletas, desde que obedeçam ao
-critério, são. Numa data incompleta, o ? pode ser um valor qualquer.
+preenchidos como se indica nas `Datas de
+produção <descricao_uf?&.html#identificacao>`__. No entanto, a data como
+critério de pesquisa, terá de ser completa, obrigando ao preenchimento
+do ano, do mês e do dia. Quando se pesquisa por datas, descrições com
+datas indeterminadas ou não preenchidas, não são recuperadas, mas
+descrições com datas incompletas, desde que obedeçam ao critério, são.
+Numa data incompleta, o ? pode ser um valor qualquer.
 
 **Conteúdo informacional**
 
@@ -196,7 +197,8 @@ Resultados
 
 O painel de ``Resultados`` (ver em cima), mostra a lista de descrições
 de unidades físicas recuperadas na pesquisa efetuada. Para ordenar esta
-lista pelas diferentes colunas, consultar `Ordenação de listas <>`__.
+lista pelas diferentes colunas, consultar `Ordenação de
+listas <ambiente_trabalho.html#ordenacao-de-listas>`__.
 
 Detalhes
 ~~~~~~~~

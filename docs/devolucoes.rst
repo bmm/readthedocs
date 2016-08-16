@@ -42,7 +42,8 @@ Devolver documentos
 -------------------
 
 O registo da devolução de um documento, só é possível, depois de ter
-sida registada no sistema uma `requisição <>`__ do mesmo.
+sida registada no sistema uma `requisição <requisicoes.html>`__ do
+mesmo.
 
 Para registar uma devolução, clicar no botão ``Criar devolução``:
 

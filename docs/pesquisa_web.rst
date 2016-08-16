@@ -33,14 +33,17 @@ Na página inicial do GISA Internet é apresentado:
 F: ``Pesquisa`` - área onde se apresenta: a) o campo para efetuar
 pesquisas simples, onde a expressão é procurada em todos os campos de
 descrição; b) botão de *Pesquisa Avançada*, abrindo uma nova página para
-efetuar `pesquisa avançada <>`__, ou seja, com definição dos campos onde
-pesquisar; c) botão de *Ajuda de pesquisa* que permite obter
-`ajuda <>`__ na utilização da pesquisa.
+efetuar `pesquisa avançada <pesquisa_web.html#pesquisa-avancada>`__, ou
+seja, com definição dos campos onde pesquisar; c) botão de *Ajuda de
+pesquisa* que permite obter
+`ajuda <pesquisa_web.html#ajuda-de-pesquisa>`__ na utilização da
+pesquisa.
 
 G: ``Detalhes`` - Carrocel que mostra as unidades documentais (séries ou
 documentos) que estão em destaque. Cada destaque possui uma hiperligação
 para a página de detalhe da respetiva unidade documental. A `definição
-dos destaques <>`__ é feita em backoffice na aplicação desktop.
+dos destaques <destaques.html>`__ é feita em backoffice na aplicação
+desktop.
 
 H: ``Grupos de arquivo`` - apresentação de ilustrações referentes aos
 diferentes grupos de arquivo, tendo cada um botão que apresenta uma
@@ -56,9 +59,10 @@ Pesquisa simples
 Na página inicial é possível efetuar uma pesquisa simples colocando uma
 expressão de pesquisa no campo de pesquisa e clicando no botão
 ``Pesquisar``. Esta pesquisa procura a referida expressão em todos os
-campos de cada unidade de descrição, devolvendo como `resultado <>`__,
-todas as unidades de descrição que têm pelo menos um campo a obedecer ao
-critério de pesquisa.
+campos de cada unidade de descrição, devolvendo como
+`resultado <pesquisa_web.html#resultados-de-pesquisa>`__, todas as
+unidades de descrição que têm pelo menos um campo a obedecer ao critério
+de pesquisa.
 
 Pesquisa avançada
 -----------------
@@ -119,7 +123,8 @@ proprietários, iniciais ou que constem de averbamentos.
 
 O botão de ``Pesquisar`` permite executar a pesquisa e obter informação
 que cumpra os critérios definidos. O botão ``Ajuda`` permite obter
-`ajuda <>`__ na construção das expressões de pesquisa.
+`ajuda <pesquisa_web.html#ajuda-de-pesquisa>`__ na construção das
+expressões de pesquisa.
 
 Resultados de pesquisa
 ----------------------
@@ -149,8 +154,9 @@ unidade documentais que tenham títulos com ``rio`` e ``douro`` e que
 tenham objetos digitais associados, tendo sido encontradas 251 unidades
 documentais.
 
-Para se ver em `detalhe <>`__ um dos resultados, basta clicar-se na
-hiperligação existente em cada um.
+Para se ver em
+`detalhe <pesquisa_web.html#detalhes-de-uma-unidade-informacional>`__ um
+dos resultados, basta clicar-se na hiperligação existente em cada um.
 
 Detalhes de uma unidade informacional
 -------------------------------------
@@ -158,9 +164,11 @@ Detalhes de uma unidade informacional
 A página de detalhes de uma unidade informacional apresenta o título da
 unidade informacional, o tipo de nível de descrição e, caso existam, as
 datas de produção, o conteúdo informacional, os `objetos digitais
-associados <>`__, o resto da sua `descrição arquivística <>`__, as
-`unidades informacionais que lhe estão diretamente subordinadas <>`__ e
-os `assuntos <>`__ que a indexam.
+associados <pesquisa_web.html#objetos-digitais>`__, o resto da sua
+`descrição arquivística <pesquisa_web.html#descricao>`__, as `unidades
+informacionais que lhe estão diretamente
+subordinadas <pesquisa_web.html#subordinados>`__ e os
+`assuntos <pesquisa_web.html#assuntos>`__ que a indexam.
 
 Quando estes detalhes correspondem a uma unidade informacional resultado
 de uma pesquisa, é apresentado:
@@ -204,8 +212,9 @@ Subordinados
 
 O separador ``Subordinados`` apresenta uma lista de unidade
 informacionais subordinadas à selecionada, em que cada subordinado é uma
-hiperligação que permite apresentar o `detalhe <>`__ dessa unidade
-informacional.
+hiperligação que permite apresentar o
+`detalhe <pesquisa_web.html#detalhes-de-uma-unidade-informacional>`__
+dessa unidade informacional.
 
 |image6|
 
@@ -221,10 +230,12 @@ relativos à unidade informacional em questão.
 -------
 
 Os índices estabelecem pontos de acesso à informação por diferentes
-vias: `Produtores <>`__, `Tipologias informacionais <>`__ ou
-`Assuntos <>`__. Cada índice tem diferentes entradas, também
-pesquisáveis, e que podem estar a indexar uma ou mais unidades de
-informação.
+vias: `Produtores <pesquisa_web.html#lista-de-produtores>`__,
+`Tipologias
+informacionais <pesquisa_web.html#lista-de-tipologias-informacionais>`__
+ou `Assuntos <pesquisa_web.html#lista-de-assuntos>`__. Cada índice tem
+diferentes entradas, também pesquisáveis, e que podem estar a indexar
+uma ou mais unidades de informação.
 
 Produtores
 ~~~~~~~~~~
@@ -254,7 +265,8 @@ Esta lista pode ser filtrada pelo ``Tipo`` (Arquivo, Subarquivo, Secção
 ou Subsecção) ou pela designação do produtor.
 
 Cada elemento da lista é uma hiperligação para uma página de `detalhe da
-unidade informacional referente a esse produtor <>`__.
+unidade informacional referente a esse
+produtor <pesquisa_web.html#detalhes-de-um-produtor>`__.
 
 Detalhes de um produtor
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -272,7 +284,8 @@ conteúdo informacional e os seguintes separadores:
 -  ``Unidades documentais`` - onde são apresentadas todas as unidades
    informacionais (séries e documentos) que lhe são diretamente
    subjacentes. As unidades informacionais são hiperligações para o
-   respetivo `detalhe <>`__.
+   respetivo
+   `detalhe <pesquisa_web.html#detalhes-de-uma-unidade-informacional>`__.
 
 |image10|
 
@@ -289,7 +302,8 @@ contendo a sua descrição.
 Esta lista pode ser filtrada pela designação da tipologia.
 
 Cada elemento da lista é uma hiperligação para uma página de `detalhe da
-unidade informacional referente a essa tipologia <>`__.
+unidade informacional referente a essa
+tipologia <pesquisa_web.html#detalhes-de-uma-tipologia-informacional>`__.
 
 Detalhes de uma Tipologia informacional
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -306,7 +320,7 @@ Nesta página é apresentado o título e os seguintes separadores:
 -  ``Unidades documentais`` - onde são apresentadas todas as unidades
    informacionais (séries e documentos) que lhe estão associadas. As
    unidades informacionais são hiperligações para o respetivo
-   `detalhe <>`__.
+   `detalhe <pesquisa_web.html#detalhes-de-uma-unidade-informacional>`__.
 
 |image12|
 
@@ -323,7 +337,8 @@ Esta lista pode ser filtrada pelo ``Tipo`` de assunto (Onomástico,
 Geográfico e IDeográfico) e pela ``Designação``.
 
 Cada elemento da lista é uma hiperligação para uma página de `detalhe da
-unidade informacional referente a esse assunto <>`__.
+unidade informacional referente a esse
+assunto <pesquisa_web.html#detalhes-de-um-assunto>`__.
 
 Detalhes de um Assunto
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -340,7 +355,8 @@ Nesta página é apresentado o título, a notícia de autoridade
    respetivo detalhe.
 -  ``Unidades documentais`` - onde são apresentadas todas as unidades
    informacionais (séries e documentos) que lhe estão associadas. As
-   unidades informacionais são hiperligações para o seu `detalhe <>`__.
+   unidades informacionais são hiperligações para o seu
+   `detalhe <pesquisa_web.html#detalhes-de-uma-unidade-informacional>`__.
 
 Apresenta-se de seguida a página exemplo de descrição de um ``Assunto``.
 

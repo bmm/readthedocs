@@ -150,7 +150,8 @@ geográfico/Topónimo citadino*.
    registos de autoridade *não validados*, em que a caixa de verificação
    tem fundo branco e não tem visto.
 
-Para mais detalhe consultar `Filtros <>`__.
+Para mais detalhe consultar
+`Filtros <ambiente_trabalho.html#filtros>`__.
 
 Geração de relatório de conteúdos
 ---------------------------------
@@ -174,9 +175,9 @@ a construção de um tesauro.
 
 As zonas de preenchimento são:
 
-`1. Identificação <>`__
+`1. Identificação <conteudo.html#identificacao>`__
 
-`4. Controlo de descrição <>`__
+`4. Controlo de descrição <conteudo.html#controlo-de-descricao>`__
 
 Identificação
 ~~~~~~~~~~~~~

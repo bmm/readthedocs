@@ -93,7 +93,7 @@ avançada não estão totalmente visíveis, sendo possível redimensionar a
 que não esteja visível.
 
 Para um maior detalhe em como construir expressões de pesquisa bem
-formadas, consultar a página `Expressões de pesquisa <>`__.
+formadas, consultar a página `Expressões de pesquisa <pesquisa.html>`__.
 
 |image4|
 
@@ -169,12 +169,13 @@ inferior do intervalo, ou então, *antes de* uma determinada data,
 definindo somente o limite superior.
 
 Nas unidades de descrição do GISA, os campos de datas podem ser
-preenchidos como se indica nas `Datas de produção <>`__. No entanto, a
-data como critério de pesquisa, terá de ser completa, obrigando ao
-preenchimento do ano, do mês e do dia. Quando se pesquisa por datas,
-descrições com datas indeterminadas ou não preenchidas, não são
-recuperadas, mas descrições com datas incompletas, desde que obedeçam ao
-critério, são. Numa data incompleta, o ? pode ser um valor qualquer.
+preenchidos como se indica nas `Datas de
+produção <ident_ref.html#datas-de-producao>`__. No entanto, a data como
+critério de pesquisa, terá de ser completa, obrigando ao preenchimento
+do ano, do mês e do dia. Quando se pesquisa por datas, descrições com
+datas indeterminadas ou não preenchidas, não são recuperadas, mas
+descrições com datas incompletas, desde que obedeçam ao critério, são.
+Numa data incompleta, o ? pode ser um valor qualquer.
 
 **Tipologia informacional**
 

@@ -59,7 +59,8 @@ no botão ``Confirmar`` para se atribuirem as permissões definidas nos
 objetos selecionados. É possível escolher os seguintes valores: **Sim**,
 **Não** ou *vazio*. Quando se escolhe o valor *vazio*, a permissão deve
 voltar à permissão implícita que o objeto possuía, estabelecida por
-`omissão <>`__ ou como resultado de um `cálculo <>`__.
+`omissão <permissoes_omissao.html#objetos-digitais-novos>`__ ou como
+resultado de um `cálculo <permissoes_calculo.html>`__.
 
 .. |image0| image:: _static/images/permissoesod.jpg
    :width: 500px

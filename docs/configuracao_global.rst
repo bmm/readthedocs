@@ -48,14 +48,15 @@ configurar esse acesso, definindo:
    repositório.
 -  ``Qualidade de imagem`` - permite definir qual a qualidade da imagem
    apresentada por omissão no interface do módulo de *`Objetos
-   Digitais <>`__*, a qual pode ser ``Mínima``, ``Baixa``, ``Média`` e
-   ``Alta``. No repositório encontram-se as imagens na sua qualidade
-   máxima, mas para visualização diária de PDfs correspondentes a
-   objetos digitais, quer na aplicação, quer na internet, estes terão de
-   ser gerados numa qualidade mais baixa e guardados em *cache* para
-   poderem ser rapidamente apresentados. A qualidade escolhida por
-   omissão convém que esteja de acordo com a usada para gerar os objetos
-   guardados em *cache*, a qual normalmente é a ``Baixa``.
+   Digitais <objetos_digitais.html>`__*, a qual pode ser ``Mínima``,
+   ``Baixa``, ``Média`` e ``Alta``. No repositório encontram-se as
+   imagens na sua qualidade máxima, mas para visualização diária de PDfs
+   correspondentes a objetos digitais, quer na aplicação, quer na
+   internet, estes terão de ser gerados numa qualidade mais baixa e
+   guardados em *cache* para poderem ser rapidamente apresentados. A
+   qualidade escolhida por omissão convém que esteja de acordo com a
+   usada para gerar os objetos guardados em *cache*, a qual normalmente
+   é a ``Baixa``.
 
 GISA Internet
 -------------

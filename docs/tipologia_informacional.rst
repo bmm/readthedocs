@@ -143,7 +143,8 @@ informacional*.
    registos de autoridade não validados, em que a caixa de verificação
    tem fundo branco e não tem visto.
 
-Para mais detalhe consultar `Filtros <>`__.
+Para mais detalhe consultar
+`Filtros <ambiente_trabalho.html#filtros>`__.
 
 Geração de relatório de tipologias informacionais
 -------------------------------------------------
@@ -165,9 +166,10 @@ A área de detalhes destinada à descrição de uma *Tipologia
 Informacional* tem diferentes zonas de informação que podem ser
 preenchidas:
 
-`1. Identificação <>`__
+`1. Identificação <tipologia_informacional.html#identificacao>`__
 
-`4. Controlo de descrição <>`__
+`4. Controlo de
+descrição <tipologia_informacional.html#controlo-de-descricao>`__
 
 Identificação
 ~~~~~~~~~~~~~

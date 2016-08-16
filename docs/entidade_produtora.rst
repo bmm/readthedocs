@@ -140,8 +140,10 @@ operação.
 Por segurança, só é possível remover uma entidade produtora desde que
 não tenha níveis documentais associados. Assim, se pretender remover uma
 entidade produtora com níveis documentais associados, primeiro estes
-terão de ser `removidos <>`__ ou `movidos <>`__ para debaixo de outro
-nível de descrição.
+terão de ser
+`removidos <descricao_ui.html#remocao-de-um-nivel-documental>`__ ou
+`movidos <descricao_ui.html#deslocacao-de-um-nivel-documental>`__ para
+debaixo de outro nível de descrição.
 
 |image7|
 
@@ -149,12 +151,12 @@ Como ao eliminar uma entidade produtora, serão eliminadas todas as
 relações desta entidade com o resto da estrutura, deve-se ter em
 especial atenção o caso de remoção de uma entidade produtora relacionada
 com outras, que lhe são hierarquicamente inferiores. Em termos práticos,
-na hierarquia apresentada na `área de contexto <>`__ do módulo
-``Unidades informacionais/Descrição``, deixam de se ver as entidades
-produtoras subjacentes à entidade eliminada. Isto acontece uma vez que
-deixou de existir relação destas entidades com o topo da estrutura,
-embora na realidade continuem a existir, bem como todos os seus
-documentos.
+na hierarquia apresentada na `área de contexto <descricao_ui.html>`__ do
+módulo ``Unidades informacionais/Descrição``, deixam de se ver as
+entidades produtoras subjacentes à entidade eliminada. Isto acontece uma
+vez que deixou de existir relação destas entidades com o topo da
+estrutura, embora na realidade continuem a existir, bem como todos os
+seus documentos.
 
 A seguir ilustra-se esta situação, partindo do princípio que
 inicialmente existia a hierarquia do lado esquerdo da figura.
@@ -195,7 +197,8 @@ produtora*.
    registos de autoridade *não validados*, em que a caixa de verificação
    tem fundo branco e não tem visto.
 
-Para mais detalhe consultar `Filtros <>`__.
+Para mais detalhe consultar
+`Filtros <ambiente_trabalho.html#filtros>`__.
 
 Geração de relatório de entidades produtoras
 --------------------------------------------
@@ -228,13 +231,14 @@ necessário ao preenchimento de toda a meta-informação relativa à
 entidade produtora selecionada na área de contexto. As zonas de
 preenchimento são as seguintes:
 
-`1. Identificação <>`__
+`1. Identificação <entidade_produtora.html#identificacao>`__
 
-`2. Descrição <>`__
+`2. Descrição <entidade_produtora.html#descricao>`__
 
-`3. Relações <>`__
+`3. Relações <entidade_produtora.html#relacoes>`__
 
-`4. Controlo de descrição <>`__
+`4. Controlo de
+descrição <entidade_produtora.html#controlo-de-descricao>`__
 
 Embora a seguir se descreva o possível conteúdo nas diferentes zonas de
 preenchimento, o utilizador não deve dispensar a consulta da norma.
@@ -330,8 +334,9 @@ de texto para qualquer comentário relativo à data de existência.
 
 Neste campo regista-se a história concisa da coletividade, pessoa ou
 família. O conteúdo deste campo irá aparecer no campo `2.2. História
-administrativa/biográfica <>`__ da descrição da entidade produtora no
-módulo *Unidades informacionais/Descrição*.
+administrativa/biográfica <contexto.html#historia-administrativabiografica>`__
+da descrição da entidade produtora no módulo *Unidades
+informacionais/Descrição*.
 
 **Zona geográfica**
 
@@ -470,7 +475,8 @@ de fim da relação (com exceção da relação temporal). As datas poderão
 ser incompletas (por e.x 1999-??-??) caso não se tenha toda a
 informação. A hierarquia da estrutura orgânica vai ter estas datas,
 entre parêntesis, associadas à respetiva relação como se pode ver em
-`Navegação na estrutura orgânica <>`__.
+`Navegação na estrutura
+orgânica <descricao_ui.html#navegacao-na-estrutura-organica>`__.
 
 E: ``Descrição`` - Pode usar-se este campo para descrever a relação com
 um pequeno texto que permita esclarecer a sua existência.
@@ -591,9 +597,10 @@ A barra de ferramentas permite adicionar ou remover elementos do campo
 Escolhe-se da lista a entidade produtora responsável pela criação do
 registo de autoridade, podendo recorrer-se ao filtro. Caso a entidade
 não exista, deverá ser criada (ver detalhe em `Criação de uma Entidade
-Produtora <>`__). Depois de a entidade produtora selecionada, clica-se
-no botão ``Adicionar`` para adicionar ao campo ou no botão ``Cancelar``
-para desistir.
+Produtora <entidade_produtora.html#criacao-de-uma-entidade-produtora>`__).
+Depois de a entidade produtora selecionada, clica-se no botão
+``Adicionar`` para adicionar ao campo ou no botão ``Cancelar`` para
+desistir.
 
 Para remover uma entidade produtora deste campo, seleciona-se essa
 entidade e clica-se no botão ``Apagar`` item ou pressiona-se na tecla

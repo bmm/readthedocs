@@ -134,7 +134,7 @@ utilizadores selecionado ao utilizador em causa.
 As permissões dos utilizadores, sobre os módulos ou sobre os níveis de
 descrição, podem depender das permissões dos grupos aos quais pertencem.
 As regras de cálculo são apresentadas na página\ `Cálculo de
-permissões <>`__.
+permissões <permissoes_calculo.html>`__.
 
 Permissões por módulo de um utilizador
 --------------------------------------
@@ -150,8 +150,10 @@ Quando se cria um utilizador novo, este não possui qualquer tipo de
 acesso aos módulos, ou seja, por omissão, as operações sobre os módulos
 assumem o valor ***Não***. Pode atribuir-se **Sim** explícito às
 permissões e posteriormente, a qualquer momento, voltar a retirar com
-**Não** explícito ou repor o `valor por omissão <>`__ ou outro valor
-implícito, resultado de `cálculo de permissões <>`__.
+**Não** explícito ou repor o `valor por
+omissão <permissoes_omissao.html#grupos-ou-utilizadores-novos>`__ ou
+outro valor implícito, resultado de `cálculo de
+permissões <permissoes_calculo.html>`__.
 
 Na área de detalhes deste painel, é possível definir, para cada módulo,
 permissões do utilizador sobre as operações que este pode executar:
@@ -161,9 +163,9 @@ Para se definir uma permissão, seleciona-se a linha do módulo e na
 coluna correspondente à operação clica-se até se obter o valor
 pretendido: **Não**, **Sim** ou ***Não***.
 
-O módulo `Permissões por Módulo <>`__ também permite definir as
-permissões dos utilizadores ou grupos sobre os módulos, a partir de um
-determinado módulo.
+O módulo `Permissões por Módulo <permissoes_modulo.html>`__ também
+permite definir as permissões dos utilizadores ou grupos sobre os
+módulos, a partir de um determinado módulo.
 
 .. |image0| image:: _static/images/utilizadores.jpg
    :width: 500px

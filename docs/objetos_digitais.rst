@@ -27,16 +27,18 @@ Seleção da unidade informacional
 A associação de ODs a uma unidade informacional selecionada, depende do
 seu tipo de nível. Se o tipo de nível for:
 
--  `Documento subordinado/Ato informacional <>`__ - só é possível
-   associar um único objeto digital simples, o qual deverá ter
-   correspondência direta com o documento simples.
+-  `Documento subordinado/Ato
+   informacional <objetos_digitais.html#gerir-od-de-um-documento-subordinadoato-informacional>`__
+   - só é possível associar um único objeto digital simples, o qual
+   deverá ter correspondência direta com o documento simples.
 
--  `Série, Subsérie ou Documento/Processo <>`__ - é possível associar um
-   ou vários objetos digitais simples, os quais podem ou não constituir
-   um objeto digital composto. Neste caso, cada objeto digital simples
-   pode não corresponder a um único documento simples, mas sim a um
-   grupo de vários documentos simples, organizados segundo alguma
-   lógica.
+-  `Série, Subsérie ou
+   Documento/Processo <objetos_digitais.html#gerir-ods-de-uma-serie-subserie-ou-documentoprocesso>`__
+   - é possível associar um ou vários objetos digitais simples, os quais
+   podem ou não constituir um objeto digital composto. Neste caso, cada
+   objeto digital simples pode não corresponder a um único documento
+   simples, mas sim a um grupo de vários documentos simples, organizados
+   segundo alguma lógica.
 
    Para se selecionar a unidade informacional à qual se vão associar os
    objetos digitais:
@@ -130,7 +132,7 @@ uma lista extensa, pode usar-se o filtro, usando os seguintes critérios:
    de autoridade validados e c) *com visto e fundo a cinzento* (caso por
    omissão), visualiza quer os validados como os não validados. Para
    mais detalhes na construção de expressões de pesquisa nos filtros,
-   consultar secção `Filtros <>`__.
+   consultar secção `Filtros <ambiente_trabalho.html#filtros>`__.
 
 Por fim, clicar no botão ``Aceitar``, o qual só aparece ativo depois de
 preenchidos os campos obrigatórios.
@@ -154,12 +156,13 @@ o nível em causa.
 Para remover cada associação de um nível documental às várias unidades
 orgânicas, não é necessário visualizar a estrutura documental de cada
 unidade orgânica, basta ir ao campo de descrição `2.1 Entidade(s)
-produtora(s) <>`__ do módulo *Unidades informacionais/Descrição* e
-apagar todas as associações com unidades orgânicas, exceto a que consta
-na barra de navegação (ver procedimento em `Contexto <>`__). Por fim,
-restando uma única associação do nível documental com a unidade orgânica
-apresentada na barra de navegação, este já pode ser eliminado através do
-botão ``Eliminar nível``.
+produtora(s) <contexto.html#entidade-s-produtora-s>`__ do módulo
+*Unidades informacionais/Descrição* e apagar todas as associações com
+unidades orgânicas, exceto a que consta na barra de navegação (ver
+procedimento em `Contexto <contexto.html>`__). Por fim, restando uma
+única associação do nível documental com a unidade orgânica apresentada
+na barra de navegação, este já pode ser eliminado através do botão
+``Eliminar nível``.
 
 **Ver níveis estruturais/Ver níveis documentais**
 
@@ -174,7 +177,8 @@ mesma posição do botão anterior.
 Para se filtrar elementos de uma lista pode-se clicar no botão
 ``Filtrar dados`` da barra de ferramentas, este fica em posição *on* e é
 apresentada a *Área de filtragem*, onde se colocam critérios de
-pesquisa. Para um maior detalhe, consultar `Filtros <>`__.
+pesquisa. Para um maior detalhe, consultar
+`Filtros <ambiente_trabalho.html#filtros>`__.
 
 |image4|
 
@@ -409,7 +413,7 @@ digital selecionado.
 R: ``Qualidade`` - definição da qualidade de imagem, com a qual se
 pretende visualizar o objeto digital. Pode ser ``Mínima``, ``Baixa``,
 ``Média``, ``Alta``. Por omissão, é a definida na área de `Configuração
-global <>`__.
+global <configuracao_global.html>`__.
 
 Criar/associar um OD simples
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -550,7 +554,8 @@ Visualizar ODs
 Quando se entra neste contexto, para cada objeto digital selecionado na
 lista de ``Objetos digitais Simples`` é apresentado o respetivo PDF no
 visualizador de PDFs na qualidade que estiver definida por omissão na
-área de `Configuração global <>`__.
+área de `Configuração
+global <configuracao_global.html#configuracoes-de-acesso-fedora>`__.
 
 Após a criação/edição de um objeto digital ou a mudança de qualidade do
 PDF, deve-se esperar alguns minutos pois o PDF pedido não se encontra em

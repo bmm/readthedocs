@@ -2,7 +2,8 @@ Estrutura arquivística
 ======================
 
 A *área de contexto* do módulo *Descrição* das *Unidades informacionais*
-permite a navegação pelo `plano de classificação <>`__, de modo a ser
+permite a navegação pelo `plano de
+classificação <introducao.html#plano-de-classificacao>`__, de modo a ser
 possível localizar a unidade informacional que se pretende. Nesta área é
 possível criar os níveis do tipo ``Entidade detentora`` e
 ``Grupo de arquivos``, bem como a sua associação à estrutura orgânica,
@@ -55,21 +56,24 @@ selecionado. Na vista documental aparece o botão
 botão alterna com o anterior.
 
 H: ``Filtrar dados`` - Botão inativo na vista da estrutura orgânica, só
-permitindo a `filtragem de dados na vista documental <>`__ pelos
+permitindo a `filtragem de dados na vista
+documental <descricao_ui.html#filtragem-de-niveis-documentais>`__ pelos
 seguintes critérios: ``Título``, ``Identificador``, ``Código parcial``,
 ``Conteúdo``, ``Esconder níveis não diretos``.
 
 I: ``Gerar relatórios`` - Botão que permite a geração de vários tipos de
-relatório em formato PDF ou RTF. Ver `Relatórios <>`__ para um maior
-detalhe.
+relatório em formato PDF ou RTF. Ver
+`Relatórios <descricao_ui.html#relatorios>`__ para um maior detalhe.
 
 J: ``Exportar para EAD`` - Botão que permite a exportação dos dados do
 GISA para um ficheiro apresentando um formato EAD. Ver `Exportar para
-EAD <>`__ para um maior detalhe.
+EAD <descricao_ui.html#exportar-para-ead>`__ para um maior detalhe.
 
 K: ``Importação`` - botão que faculta a importação de dados, existentes
 num ficheiro Excel, para o GISA, desde que obedeçam às regras definidas
-em `Importação de dados em Excel <>`__ para um maior detalhe.
+em `Importação de dados em
+Excel <descricao_ui.html#importacao-de-dados-em-excel>`__ para um maior
+detalhe.
 
 Entidade detentora
 ------------------
@@ -150,12 +154,13 @@ relacionados entre si, fornecendo o contexto produtor de informação.
 
 Estes níveis são entidades produtoras, cuja criação e descrição pela
 norma internacional *ISAAR-CPF* é registada na área de `Entidades
-produtoras <>`__.
+produtoras <entidade_produtora.html>`__.
 
 Ao mesmo tempo, estes níveis podem constituir um nível descrição
 arquivística, segundo a ISAD-G, cuja descrição tem como objeto o
 conjunto de todos os documentos produzidos por esse nível. Para um maior
-detalhe consultar `Descrição multinível <>`__.
+detalhe consultar `Descrição
+multinível <descricao_ui.html#descricao-multinivel>`__.
 
 Navegação na estrutura orgânica
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -169,16 +174,17 @@ Cada unidade orgânica, dependendo do tipo de nível, é representada por
 esquerdo, indicando que o nível em causa é um nível controlado, ou seja,
 um registo de autoridade cuja construção e gestão é feita no módulo
 *Entidade produtora* do *Controlo de Autoridade*, detalhada em
-`Entidades produtoras <>`__.
+`Entidades produtoras <entidade_produtora.html>`__.
 
 Se ao lado de cada nível estiver um intervalo de datas entre parêntesis,
 isso indica o período em que esse nível foi subordinado do nível
 hierarquicamente superior. As datas foram atribuídas no campo `3.
-Relações <>`__ do módulo *Entidade produtora* do *Controlo de
-Autoridade* e são importantes no estabelecimento de uma ordem na
-apresentação da estrutura. Debaixo de um mesmo nível, as entidades
-produtoras serão ordenadas por ordem decrescente de datas de fim de
-relação, ficando à cabeça as datas mais recentes. |image2|
+Relações <entidade_produtora.html#relacoes>`__ do módulo *Entidade
+produtora* do *Controlo de Autoridade* e são importantes no
+estabelecimento de uma ordem na apresentação da estrutura. Debaixo de um
+mesmo nível, as entidades produtoras serão ordenadas por ordem
+decrescente de datas de fim de relação, ficando à cabeça as datas mais
+recentes. |image2|
 
 Neste exemplo, dada a representação em árvore, a entidade *Repartição de
 alunos. Reitoria da Universidade do Porto, 1992/1-1999/7* aparece em
@@ -224,7 +230,7 @@ Construção da estrutura orgânica
 A criação, edição e remoção dos níveis orgânicos e das relações entre
 eles, são feitas no módulo *Entidade Produtora* da área do *Controlo de
 autoridade*, encontrando-se o processo detalhado em `Entidades
-produtoras <>`__.
+produtoras <entidade_produtora.html>`__.
 
 Para qualquer nível orgânico selecionado, o botão ``Eliminar nível``
 fica sempre inibido, exceto no caso de um nível de topo do tipo
@@ -236,7 +242,8 @@ Os botões ``Recortar`` e ``Colar`` também não estão disponíveis quando
 se seleciona algum nível da estrutura orgânica, pois toda a alteração
 das relações entre as entidades produtoras é feita na zona *3. Relações*
 do módulo *Controlo de autoridade/Entidade Produtora*. Mais informações
-em `Relações entre entidades produtoras <>`__.
+em `Relações entre entidades
+produtoras <entidade_produtora.html#relacoes>`__.
 
 Estrutura documental
 --------------------
@@ -308,9 +315,10 @@ selecionado, sem ter de percorrer todo o caminho via botão
 ``Subir nível documental``.
 
 Para maior detalhe na utilização desta lista paginada com barra de
-navegação ver em `Listas paginadas com barra de navegação <>`__. Para se
-selecionar determinado elemento da lista paginada, pode recorrer-se ao
-`filtro <>`__.
+navegação ver em `Listas paginadas com barra de
+navegação <ambiente_trabalho.html#listas-paginadas-com-barra-de-navegacao>`__.
+Para se selecionar determinado elemento da lista paginada, pode
+recorrer-se ao `filtro <ambiente_trabalho.html#filtros>`__.
 
 Criação de um nível documental
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -394,7 +402,8 @@ Um nível do tipo ``Série`` ou
 associado a mais que uma entidade produtora. A primeira associação
 estabelece-se no momento da criação do nível, mas qualquer outra
 associação deve ser estabelecida no campo `2.1 Entidade(s)
-produtora(s) <>`__ do módulo *Unidades informacionais/Descrição*.
+produtora(s) <contexto.html#entidade-s-produtora-s>`__ do módulo
+*Unidades informacionais/Descrição*.
 
 |image14|
 
@@ -428,12 +437,13 @@ navegação.
 Para remover cada associação de um nível documental às várias unidades
 orgânicas, não é necessário visualizar a estrutura documental de cada
 unidade orgânica, basta ir ao campo de descrição `2.1 Entidade(s)
-produtora(s) <>`__ do módulo *Unidades informacionais/Descrição* e
-apagar todas as associações com unidades orgânicas, exceto a que consta
-na barra de navegação (ver procedimento em `Contexto <>`__). Por fim,
-restando uma única associação do nível documental com a unidade orgânica
-apresentada na barra de navegação, este já pode ser eliminado através do
-botão ``Eliminar nível``.
+produtora(s) <contexto.html#entidade-s-produtora-s>`__ do módulo
+*Unidades informacionais/Descrição* e apagar todas as associações com
+unidades orgânicas, exceto a que consta na barra de navegação (ver
+procedimento em `Contexto <contexto.html>`__). Por fim, restando uma
+única associação do nível documental com a unidade orgânica apresentada
+na barra de navegação, este já pode ser eliminado através do botão
+``Eliminar nível``.
 
 Deslocação de um nível documental
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -602,10 +612,10 @@ O modelo do ficheiro Excel, ``Importacao Excel_Modelo.xls``, que se
 encontra na pasta ``Importacao`` do CD de instalação, é constituído por
 duas folhas:
 
--  `Documentos <>`__, contendo a tabela das unidades informacionais a
-   importar;
--  `UnidadesFisicas <>`__, contendo a tabela das unidades físicas a
-   importar.
+-  `Documentos <modelo_ui.html>`__, contendo a tabela das unidades
+   informacionais a importar;
+-  `UnidadesFisicas <modelo_uf.html>`__, contendo a tabela das unidades
+   físicas a importar.
 
 A primeira coluna de cada tabela Excel, designada por ``Identificador``,
 é onde se colocam os códigos identificadores dos registos da tabela.
@@ -670,8 +680,9 @@ Descrição multinível
 ====================
 
 A descrição arquivística, feita na área de detalhes deste módulo
-*Unidades in formacionais/Descrição*, é uma `descrição multinível <>`__
-e rege-se pela norma internacional
+*Unidades in formacionais/Descrição*, é uma `descrição
+multinível <introducao.html#descricao-arquivistica-multinivel>`__ e
+rege-se pela norma internacional
 `ISAD(G) <http://www.ica.org/10207/standards/isadg-general-international-standard-archival-description-second-edition.html>`__
 — *Norma Geral Internacional de Descrição Arquivística*.
 
@@ -687,31 +698,31 @@ zonas e campos da descrição de unidades informacionais são:
 
 -  1. Identificação
 
-   -  `1.1.-1.4. Referência e datas de produção <>`__
-   -  `1.5. Dimensões e suporte <>`__
+   -  `1.1.-1.4. Referência e datas de produção <ident_ref.html>`__
+   -  `1.5. Dimensões e suporte <ident_dim.html>`__
 
--  `2. Contexto <>`__
+-  `2. Contexto <contexto.html>`__
 -  3. Conteúdo e estrutura
 
-   -  `3.1. Âmbito e conteúdo <>`__
-   -  `3.2. Avaliação, seleção e eliminação <>`__
+   -  `3.1. Âmbito e conteúdo <ambito_conteudo.html>`__
+   -  `3.2. Avaliação, seleção e eliminação <avaliacao.html>`__
 
       -  Avaliação da unidade de descrição
       -  Avaliação do conteúdo da unidade de descrição
 
-   -  `3.3. Incorporações <>`__
-   -  `3.4. Organização e ordenação <>`__
+   -  `3.3. Incorporações <incorporacoes.html>`__
+   -  `3.4. Organização e ordenação <organizacao.html>`__
 
--  `3.\*. Índice de imagens <>`__
+-  `3.\*. Índice de imagens <imagens.html>`__
 -  4. Condições de acesso e de utilização
 
-   -  `4.1.-4.3. Caracterização do acesso <>`__
-   -  `4.4.-4.5. Descrição do material <>`__
+   -  `4.1.-4.3. Caracterização do acesso <acesso.html>`__
+   -  `4.4.-4.5. Descrição do material <material.html>`__
 
--  `5. Documentação associada <>`__
--  `6. Notas <>`__
--  `7. Controlo de descrição <>`__
--  `\*. Indexação <>`__
+-  `5. Documentação associada <documentacao_associada.html>`__
+-  `6. Notas <notas.html>`__
+-  `7. Controlo de descrição <controlo_descricao.html>`__
+-  `\*. Indexação <indexacao.html>`__
 
 .. |image0| image:: _static/images/estruturaarquivistica.jpg
    :width: 300px

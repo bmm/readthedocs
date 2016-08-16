@@ -17,7 +17,8 @@ Ao selecionar a unidade documental pretendida, na área de contexto, esta
 pode ser arrastada para a área de *Destaques*. Se esta unidade não
 estiver publicada fica a vermelho, pois não vai ser apresentada na área
 de destaques. Para poder ser destacada, terá de ser publicada primeiro
-(`Publicação de um nível documental <>`__).
+(`Publicação de um nível
+documental <avaliacao.html#publicacao-de-um-nivel-de-descricao>`__).
 
 A cada unidade documental destacada deve ser associada uma imagem que
 permita ilustrar o destaque na web.

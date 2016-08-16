@@ -71,7 +71,7 @@ Os valores apresentados são:
    prateleira do depósito da entidade onde a aplicação está instalada.
    Este valor é introduzido no módulo de ``Configuração Geral`` na área
    da ``Administração`` (ver detalhadamemte em `Configuração
-   global <>`__.
+   global <configuracao_global.html>`__.
 
 \* ``Ocupados`` - Total das larguras das unidades físicas existentes em
 depósito. Este valor é estimado se existirem algumas unidades físicas

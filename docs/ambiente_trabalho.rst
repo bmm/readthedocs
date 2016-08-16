@@ -102,15 +102,20 @@ nas listas pendentes, também.
 
 A ``Área de seleção do contexto`` apresenta a lista de registos
 existentes no módulo escolhido, permitindo a navegação com a ajuda de
-`ordenações <>`__ e `filtros <>`__ da lista, de forma a facilitar a
-seleção do registo pretendido, seja simplesmente para visualizar,
-alterar ou até mesmo apagar. As operações disponíveis na
+`ordenações <ambiente_trabalho.html#ordenacao-de-listas>`__ e
+`filtros <ambiente_trabalho.html#filtros>`__ da lista, de forma a
+facilitar a seleção do registo pretendido, seja simplesmente para
+visualizar, alterar ou até mesmo apagar. As operações disponíveis na
 ``Barra de ferramentas`` e a informação apresentada na
 ``Área de detalhes``, depende do registo selecionado.
 
 A informação apresentada nesta área, dependendo do seu tipo, pode estar
-sob a forma de `lista paginada <>`__, `lista paginada com barra de
-navegação <>`__ ou de `hierarquia de níveis <>`__.
+sob a forma de `lista
+paginada <ambiente_trabalho.html#listas-paginadas>`__, `lista paginada
+com barra de
+navegação <ambiente_trabalho.html#listas-paginadas-com-barra-de-navegacao>`__
+ou de `hierarquia de
+níveis <ambiente_trabalho.html#hierarquia-de-niveis>`__.
 
 Área de detalhe
 ---------------
@@ -287,9 +292,9 @@ Listas paginadas
 Em vários pontos da aplicação aparecem listas paginadas, onde são
 apresentados os elementos de uma página de cada vez. Cada página possui
 um determinado número de elementos, o qual poderá ser configurado no
-módulo `Configuração global <>`__ da *Administração*. No lado direito da
-lista, aparecem os botões que permitem a navegação para outra página da
-lista.
+módulo `Configuração global <administracao.html#configuracao-global>`__
+da *Administração*. No lado direito da lista, aparecem os botões que
+permitem a navegação para outra página da lista.
 
 |image8|
 
@@ -304,12 +309,14 @@ C: ``Página seguinte`` - Botão que permite mostrar a página seguinte. Na
 última página, este botão encontra-se inibido.
 
 As listas paginadas podem ser filtradas de forma a encontrar mais
-rapidamente os elementos pretendidos. Consultar a secção `Filtros <>`__
-para uma explicação mais detalhada de como filtrar dados.
+rapidamente os elementos pretendidos. Consultar a secção
+`Filtros <ambiente_trabalho.html#filtros>`__ para uma explicação mais
+detalhada de como filtrar dados.
 
 O GISA possui algumas listas que permitem ser ordenadas pelas diferentes
 colunas. Para mais detalhes de como ordenar estas listas consultar a
-secção `Ordenação <>`__ de listas desta página.
+secção `Ordenação <ambiente_trabalho.html#ordenacao>`__ de listas desta
+página.
 
 Listas paginadas com barra de navegação
 ---------------------------------------
@@ -370,7 +377,8 @@ podem usar-se os botões ``Mostrar caminho mais à esquerda`` e
 esquerda ou mais à direita.
 
 A navegação na lista paginada é feita tal como explicado na secção
-`Listas paginadas <>`__ desta página.
+`Listas paginadas <ambiente_trabalho.html#listas-paginadas>`__ desta
+página.
 
 Hierarquia de níveis
 --------------------

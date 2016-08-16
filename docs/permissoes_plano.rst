@@ -74,10 +74,11 @@ Se as permissões a atribuir são iguais para um conjunto de níveis de
 descrição, estas poderão ser atribuídas ao mesmo tempo, desde que na
 mesma página. Quando esse conjunto de níveis é grande (distribuindo-se
 por mais que uma página), é conveniente aumentar o número de elementos
-mostrados por página (ver `Configuração global <>`__) de forma a reduzir
-o número de páginas, tornando o processo de atribuição mais rápido. Uma
-vez feita a seleção múltipla dos níveis pretendidos, clicar no botão
-direito do rato para se poder atribuir as permissões:
+mostrados por página (ver `Configuração
+global <configuracao_global.html>`__) de forma a reduzir o número de
+páginas, tornando o processo de atribuição mais rápido. Uma vez feita a
+seleção múltipla dos níveis pretendidos, clicar no botão direito do rato
+para se poder atribuir as permissões:
 
 |image1|
 
@@ -85,11 +86,13 @@ Escolher para cada operação o valor pretendido e de seguida clicar no
 botão ``Confirmar`` para estabelecer as permissões definidas nos níveis
 selecionados. É possível escolher os seguintes valores: **Sim**, **Não**
 ou *vazio*. Quando se escolhe o valor *vazio*, a permissão deve voltar à
-permissão implícita que o nível possuía, estabelecida por `omissão <>`__
-ou como resultado de um `cálculo <>`__.
+permissão implícita que o nível possuía, estabelecida por
+`omissão <permissoes_omissao.html#niveis-novos>`__ ou como resultado de
+um `cálculo <permissoes_calculo.html>`__.
 
 Quando se pretende definir permissões em bloco, deve-se ter em conta as
-regras de `Cálculo de permissões <>`__. Ou seja, quando se definem:
+regras de `Cálculo de permissões <permissoes_calculo.html>`__. Ou seja,
+quando se definem:
 
 -  *permissões em grupos de utilizadores*, as permissões dos
    utilizadores pertencentes a esses grupos podem ser afetadas com novos
