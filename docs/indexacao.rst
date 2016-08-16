@@ -1,5 +1,5 @@
-Indexação
-=========
+* Indexação
+===========
 
 Esta zona não pertence à descrição ISAD-G, mas é considerada como
 essencial na `descrição

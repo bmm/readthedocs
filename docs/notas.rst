@@ -1,5 +1,5 @@
-Notas
-=====
+6. Notas
+========
 
 Esta é uma das zonas da `descrição
 multinível <descricao_ui.html#descricao-multinivel>`__ da ISAD(G).

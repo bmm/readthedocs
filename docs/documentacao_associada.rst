@@ -1,5 +1,5 @@
-Documentação associada
-======================
+5. Documentação associada
+=========================
 
 Esta é uma das zonas da `descrição
 multinível <descricao_ui.html#descricao-multinivel>`__ da ISAD(G).

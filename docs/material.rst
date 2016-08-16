@@ -1,5 +1,5 @@
-Descrição do material
-=====================
+4.4-4.5 Descrição do material
+=============================
 
 No seguinte painel, existem os campos de preenchimento:
 ``Características físicas e requisitos técnicos`` e

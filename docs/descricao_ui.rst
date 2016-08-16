@@ -716,8 +716,6 @@ zonas e campos da descrição de unidades informacionais são:
 .. toctree::
    :maxdepth: 2
 
-   acesso
-   material
    documentacao_associada
    notas
    controlo_descricao
