@@ -618,11 +618,6 @@ duas folhas:
    modelo_ui
    modelo_uf
 
--  `Documentos <modelo_ui.html>`__, contendo a tabela das unidades
-   informacionais a importar;
--  `UnidadesFisicas <modelo_uf.html>`__, contendo a tabela das unidades
-   físicas a importar.
-
 A primeira coluna de cada tabela Excel, designada por ``Identificador``,
 é onde se colocam os códigos identificadores dos registos da tabela.
 Esse código é usado noutras colunas para referenciar registos da própria
@@ -701,6 +696,25 @@ Todas as zonas de descrição, apresentadas a seguir, permitem a
 introdução de meta-informação relativa a qualquer nível de descrição,
 orgânico ou documental, selecionado na área de contexto. As diferentes
 zonas e campos da descrição de unidades informacionais são:
+
+
+.. toctree::
+   :maxdepth: 2
+
+   ident_ref
+   ident_dim
+   contexto
+   ambito_conteudo
+   avaliacao
+   incorporacoes
+   organizacao
+   imagens
+   acesso
+   material
+   documentacao_associada
+   notas
+   controlo_descricao
+   indexacao
 
 -  1. Identificação
 
