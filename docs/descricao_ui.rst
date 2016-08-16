@@ -612,6 +612,8 @@ O modelo do ficheiro Excel, ``Importacao Excel_Modelo.xls``, que se
 encontra na pasta ``Importacao`` do CD de instalação, é constituído por
 duas folhas:
 
+.. include::modelo_ui.rst
+
 -  `Documentos <modelo_ui.html>`__, contendo a tabela das unidades
    informacionais a importar;
 -  `UnidadesFisicas <modelo_uf.html>`__, contendo a tabela das unidades
