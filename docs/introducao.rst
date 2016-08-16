@@ -71,7 +71,7 @@ por:
    orgânico-funcional pode estar relacionada com outras, através de
    relações hierárquicas, associativas, familiares ou temporais
    previstas na norma internacional
-   `ISAAR(CPF) <http://www.google.pt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDcQFjAD&url=http%3A%2F%2Fwww.ica.org%2F10203%2Fstandards%2Fisaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html&ei=lf1zUK-JL8yzhAf074GIBA&usg=AFQjCNGpyLndq-JGyvYtHIDGeuK1ubeEYg>`__
+   `ISAAR(CPF) <http://www.google.pt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDcQFjAD&url=http%3A%2F%2Fwww.ica.org%2F10203%2Fstandards%2Fisaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html&ei=lf1zUK-JL8yzhAf074GIBA&usg=AFQjCNGpyLndq_JGyvYtHIDGeuK1ubeEYg>`__
    — *Norma Internacional de Registo de Autoridade Arquivística para
    Entidades Coletivas, Pessoas e Famílias*, adotada pelo Conselho
    Internacional de Arquivos em 1996. A descrição das unidades
@@ -113,7 +113,7 @@ estabelecer, de uma forma normalizada, a identidade e a designação
 autorizada de pontos de acesso às unidades de descrição documentais,
 considerando os seguintes tipos de notícias de autoridade:
 
--  `Entidade Produtora <entidade-produtora.html>`__ - quando referida na
+-  `Entidade Produtora <entidade_produtora.html>`__ - quando referida na
    unidade de descrição indica que a produziu. As unidades orgânicas
    relacionadas entre si constituem a(s) estrutura(s) orgânica(s).
 -  `Conteúdo <conteudo.html>`__ - podem ser to tipo ``Ideográfico``,
@@ -121,7 +121,7 @@ considerando os seguintes tipos de notícias de autoridade:
    indexados a uma unidade de descrição indicam assuntos referidos no
    seu conteúdo. Estes termos relacionados entre si constituem um
    tesauro.
--  `Tipologias Informacionais <tipologia-informacional.html>`__ -
+-  `Tipologias Informacionais <tipologia_informacional.html>`__ -
    indicam a tipologia da unidade de descrição.
 
 Com base nestes registos de autoridade controlados, e nas relações entre
@@ -207,7 +207,7 @@ Pesquisa de informação
 A pesquisa num Arquivo é essencialmente originada pela necessidade de
 aceder a determinada *informação*. A resposta pode ser dada pelo GISA
 (ver em detalhe a pagina `Pesquisa de Unidades Informacionais via
-aplicação <pesquisa-ui.html>`__ ) se esta informação estiver
+aplicação <pesquisa_ui.html>`__ ) se esta informação estiver
 representada no sistema, através das unidades informacionais:
 
 -  se a informação pretendida se encontra num documento em Depósito,
@@ -220,7 +220,7 @@ Pode também existir a necessidade de, para efeitos de serviço interno do
 Arquivo, ter como objeto de pesquisa, as unidades físicas registadas no
 GISA, sem ter preocupações de acesso a informação. O GISA também
 disponibiliza este tipo de pesquisa, detalhada na página `Pesquisa de
-Unidades físicas via aplicação <pesquisa-uf.html>`__.
+Unidades físicas via aplicação <pesquisa_uf.html>`__.
 
 O GISA permite recuperar informação tanto via posto de trabalho com
 permissões para tal, como via Web por qualquer pessoa. Enquanto que o
@@ -313,10 +313,10 @@ totais.
 
 Quando se cria um utilizador, um nível de descrição ou um objeto
 digital, o sistema atribui automaticamente `permissões por
-omissão <permissoes-omissao.html>`__. São valores implícitos e
+omissão <permissoes_omissao.html>`__. São valores implícitos e
 representam-se em itálico. Estes valores podem ser alterados
 explicitamente pelo utilizador ou alterados implicitamente, sendo o
-resultado de `cálculo de permissões <permissoes-calculo.html>`__. Esta
+resultado de `cálculo de permissões <permissoes_calculo.html>`__. Esta
 distinção de valores é importante nos cálculos de permissões, pois um
 valor explícito prevalece sobre um valor implícito. Os valores das
 permissões por omissão de um utilizador, sobre um nível ou objeto por
@@ -364,7 +364,7 @@ referenciando-as quer via caminho de rede, quando se encontram num
 sistema de ficheiros, quer via URL, quando se encontram num servidor
 web. O GISA-MOD - *Módulo de Objetos Digitais do GISA* é inspirado no
 modelo de referência *`Open Archival Information
-System <http://en.wikipedia.org/wiki/Open-Archival-Information-System>`__*
+System <http://en.wikipedia.org/wiki/Open_Archival_Information_System>`__*
 (OAIS), do *Consultative Committee for Space Data Systems* (CCSDS), o
 qual representa um esquema conceptual que disciplina e orienta um
 sistema para a preservação e manutenção do acesso à informação digital a
