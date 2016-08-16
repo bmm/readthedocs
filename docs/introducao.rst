@@ -24,7 +24,7 @@ constituído por vários documentos simples.
 Em termos de GISA, existem registos de descrição arquivística de
 documentos ou de grupos de documentos, os quais são denominados por
 *unidades informacionais*. Como cada unidade informacional pode
-representar um ou mais documentos, torna-se possível uma `descrição
+representar um ou mais documentos, torna-se possível uma `Descrição
 arquivística multinível`__.
 
 O suporte de documentos, dependendo do tipo, é representado por unidades
