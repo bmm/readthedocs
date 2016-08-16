@@ -1,5 +1,5 @@
-Âmbito e conteúdo
-=================
+3.1 Âmbito e conteúdo
+=====================
 
 *Âmbito e conteúdo* é um painel da zona *Conteúdo e estrutura* que faz
 parte da `descrição

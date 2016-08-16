@@ -1,5 +1,5 @@
-Índice de imagens
-=================
+3.* Índice de imagens
+=====================
 
 A informação descrita no GISA pode estar em suporte papel ou digital.
 Para se consultar um documento em suporte papel, descrito no GISA,

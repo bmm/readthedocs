@@ -1,5 +1,5 @@
-Avaliação, seleção e eliminação
-===============================
+3.2 Avaliação, seleção e eliminação
+===================================
 
 *Avaliação, seleção e eliminação* é um conjunto de painéis, destinado à
 avaliação documental, que fazem parte da zona *Conteúdo e estrutura*

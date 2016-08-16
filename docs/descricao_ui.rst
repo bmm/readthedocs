@@ -706,11 +706,16 @@ zonas e campos da descrição de unidades informacionais são:
    :maxdepth: 2
 
    contexto
-   ambito_conteudo
-   avaliacao
-   incorporacoes
-   organizacao
+
+.. toctree::
+   :maxdepth: 2
+
+   conteudo_estrutura
    imagens
+
+.. toctree::
+   :maxdepth: 2
+
    acesso
    material
    documentacao_associada
