@@ -710,34 +710,6 @@ zonas e campos da descrição de unidades informacionais são:
    controlo_descricao
    indexacao
 
--  1. Identificação
-
-   -  `1.1.-1.4. Referência e datas de produção <ident_ref.html>`__
-   -  `1.5. Dimensões e suporte <ident_dim.html>`__
-
--  `2. Contexto <contexto.html>`__
--  3. Conteúdo e estrutura
-
-   -  `3.1. Âmbito e conteúdo <ambito_conteudo.html>`__
-   -  `3.2. Avaliação, seleção e eliminação <avaliacao.html>`__
-
-      -  Avaliação da unidade de descrição
-      -  Avaliação do conteúdo da unidade de descrição
-
-   -  `3.3. Incorporações <incorporacoes.html>`__
-   -  `3.4. Organização e ordenação <organizacao.html>`__
-
--  `3.\*. Índice de imagens <imagens.html>`__
--  4. Condições de acesso e de utilização
-
-   -  `4.1.-4.3. Caracterização do acesso <acesso.html>`__
-   -  `4.4.-4.5. Descrição do material <material.html>`__
-
--  `5. Documentação associada <documentacao_associada.html>`__
--  `6. Notas <notas.html>`__
--  `7. Controlo de descrição <controlo_descricao.html>`__
--  `\*. Indexação <indexacao.html>`__
-
 .. |image0| image:: _static/images/estruturaarquivistica.jpg
    :width: 300px
 .. |image1| image:: _static/images/criared.png
