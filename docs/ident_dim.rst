@@ -1,5 +1,5 @@
-Dimensão e suporte
-==================
+1.5 Dimensão e suporte
+======================
 
 *Identificação* é uma das zonas da `descrição
 multinível <descricao_ui.html#descricao-multinivel>`__ da ISAD(G) onde

@@ -697,12 +697,16 @@ introdução de meta-informação relativa a qualquer nível de descrição,
 orgânico ou documental, selecionado na área de contexto. As diferentes
 zonas e campos da descrição de unidades informacionais são:
 
-
+1. Identificação
 .. toctree::
    :maxdepth: 2
 
    ident_ref
    ident_dim
+
+.. toctree::
+   :maxdepth: 2
+
    contexto
    ambito_conteudo
    avaliacao
